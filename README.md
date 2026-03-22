@@ -12,3 +12,4 @@
 ![Hydra](https://img.shields.io/badge/Hydra-0A0A0A?style=for-the-badge&logo=linux&logoColor=green)
 ![Nikto](https://img.shields.io/badge/Nikto-3C3C3C?style=for-the-badge&logo=perl&logoColor=white)
 ![Burp%20Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+![SlowHTTPTest](https://img.shields.io/badge/SlowHTTPTest-5A5A5A?style=for-the-badge&logo=apache&logoColor=white)
