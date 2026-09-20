@@ -5,7 +5,7 @@ about me
 software engineering student, web developer & cybersecurity enthusiast.
 interested in building web applications, backend systems, cloud infrastructure, and cybersecurity.
 
-💻 Web Development • 🛡️ Cybersecurity • ☁️ Cloud • ⚙️ DevOps
+💻 Web Development • 🛡️ Cybersecurity • ☁️ Cloud 
 
 core skills
 
