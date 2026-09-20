@@ -30,3 +30,7 @@ Go — backend development, networking & system programming
 Cloud & DevOps — containers, deployment, CI/CD & cloud infrastructure
 
 Cybersecurity — web security, reconnaissance & security testing
+
+ GitHub Stats:
+ 
+![](https://streak-stats.demolab.com/?user=rifkyyyadtyaa&theme=highcontrast&hide_border=false)
