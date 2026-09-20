@@ -19,7 +19,7 @@ backend & database: MySQL • REST API • CRUD • Authentication
 
 cybersecurity: Web Security • Reconnaissance • Vulnerability Assessment • CTF
 
-devops & cloud: Docker • Linux • Git • GitHub • AWS • Google Cloud • CI/CD
+cloud: Docker • Linux • Git • GitHub • AWS • Google Cloud • CI/CD
 
 currently learning
 
@@ -27,7 +27,7 @@ Python — scripting, automation, backend & cybersecurity
 
 Go — backend development, networking & system programming
 
-Cloud & DevOps — containers, deployment, CI/CD & cloud infrastructure
+Cloud — containers, deployment, CI/CD & cloud infrastructure
 
 Cybersecurity — web security, reconnaissance & security testing
 
