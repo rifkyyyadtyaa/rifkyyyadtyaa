@@ -12,9 +12,13 @@ core skills
 <p align="left"> <img src="https://skillicons.dev/icons?i=html,css,js,php,python,go,mysql,laravel,git,github,docker,linux,aws,gcp&theme=dark" alt="core skills" /> </p>
 
 languages: HTML • CSS • JavaScript • PHP • Python • Go
+
 web development: HTML • CSS • JavaScript • PHP • Laravel
+
 backend & database: MySQL • REST API • CRUD • Authentication
+
 cybersecurity: Web Security • Reconnaissance • Vulnerability Assessment • CTF
+
 devops & cloud: Docker • Linux • Git • GitHub • AWS • Google Cloud • CI/CD
 
 currently learning
