@@ -1,6 +1,6 @@
 <p align="center"> <img src="rifky.png" width="100%"> </p>
 
-about
+about me
 
 software engineering student, web developer & cybersecurity enthusiast.
 interested in building web applications, backend systems, cloud infrastructure, and cybersecurity.
@@ -16,6 +16,7 @@ web development: HTML • CSS • JavaScript • PHP • Laravel
 backend & database: MySQL • REST API • CRUD • Authentication
 cybersecurity: Web Security • Reconnaissance • Vulnerability Assessment • CTF
 devops & cloud: Docker • Linux • Git • GitHub • AWS • Google Cloud • CI/CD
+
 currently learning
 
 Python — scripting, automation, backend & cybersecurity
